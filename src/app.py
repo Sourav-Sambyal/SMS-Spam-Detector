@@ -3,7 +3,7 @@ from pathlib import Path
 import joblib
 import streamlit as st
 
-from src.explain import explain_prediction
+from explain import explain_prediction
 
 
 # Project paths
